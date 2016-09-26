@@ -1,0 +1,11 @@
+@font-face {
+   font-family: 'duck4gameregular';
+   src: url('duck4game-webfont.eot');
+   src: url('duck4game-webfont.eot?#iefix') format('embedded-opentype'),
+        url('duck4game-webfont.woff2') format('woff2'),
+        url('duck4game-webfont.woff') format('woff'),
+        url('duck4game-webfont.ttf') format('truetype'),
+        url('duck4game-webfont.svg#duck4gameregular') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
